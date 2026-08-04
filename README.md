@@ -8,6 +8,7 @@ My LeetCode Solutions.........
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,12 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+## Counting
+|  |
+| ------- |
+| [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 <!---LeetCode Topics End-->
