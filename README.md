@@ -34,4 +34,12 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+## Hash Table
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
