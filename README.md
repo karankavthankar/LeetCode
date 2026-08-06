@@ -29,6 +29,7 @@ My LeetCode Solutions.........
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Counting
 |  |
@@ -41,10 +42,16 @@ My LeetCode Solutions.........
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karankavthankar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karankavthankar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
