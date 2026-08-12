@@ -9,6 +9,7 @@ My LeetCode Solutions.........
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ My LeetCode Solutions.........
 | ------- |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,8 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
