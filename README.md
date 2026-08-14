@@ -48,6 +48,7 @@ My LeetCode Solutions.........
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/karankavthankar/LeetCode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karankavthankar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/karankavthankar/LeetCode/tree/master/1544-make-the-string-great) |
