@@ -36,6 +36,7 @@ My LeetCode Solutions.........
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karankavthankar/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +85,8 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karankavthankar/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Math
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
