@@ -12,6 +12,7 @@ My LeetCode Solutions.........
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/karankavthankar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karankavthankar/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ My LeetCode Solutions.........
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karankavthankar/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/karankavthankar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Counting
 |  |
