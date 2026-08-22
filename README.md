@@ -90,5 +90,6 @@ My LeetCode Solutions.........
 ## Math
 |  |
 | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karankavthankar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
