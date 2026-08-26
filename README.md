@@ -66,6 +66,7 @@ My LeetCode Solutions.........
 | [1544-make-the-string-great](https://github.com/karankavthankar/LeetCode/tree/master/1544-make-the-string-great) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karankavthankar/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karankavthankar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -89,6 +90,7 @@ My LeetCode Solutions.........
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karankavthankar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
