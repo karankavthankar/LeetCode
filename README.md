@@ -14,6 +14,7 @@ My LeetCode Solutions.........
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karankavthankar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karankavthankar/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karankavthankar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/karankavthankar/LeetCode/tree/master/3731-find-missing-elements) |
@@ -48,6 +49,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@ My LeetCode Solutions.........
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karankavthankar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/karankavthankar/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -104,5 +107,6 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karankavthankar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
