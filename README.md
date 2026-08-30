@@ -11,6 +11,7 @@ My LeetCode Solutions.........
 | [0735-asteroid-collision](https://github.com/karankavthankar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karankavthankar/LeetCode/tree/master/0739-daily-temperatures) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/karankavthankar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karankavthankar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,4 +110,8 @@ My LeetCode Solutions.........
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karankavthankar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/karankavthankar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
