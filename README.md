@@ -19,6 +19,7 @@ My LeetCode Solutions.........
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karankavthankar/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karankavthankar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/karankavthankar/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karankavthankar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ My LeetCode Solutions.........
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karankavthankar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karankavthankar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
