@@ -12,6 +12,7 @@ My LeetCode Solutions.........
 | [0739-daily-temperatures](https://github.com/karankavthankar/LeetCode/tree/master/0739-daily-temperatures) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karankavthankar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karankavthankar/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karankavthankar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -50,6 +51,7 @@ My LeetCode Solutions.........
 ## Counting
 |  |
 | ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karankavthankar/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
@@ -71,6 +73,7 @@ My LeetCode Solutions.........
 | [1544-make-the-string-great](https://github.com/karankavthankar/LeetCode/tree/master/1544-make-the-string-great) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/karankavthankar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karankavthankar/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karankavthankar/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karankavthankar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
