@@ -67,6 +67,7 @@ My LeetCode Solutions.........
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/karankavthankar/LeetCode/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/karankavthankar/LeetCode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karankavthankar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -80,6 +81,7 @@ My LeetCode Solutions.........
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/karankavthankar/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/karankavthankar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karankavthankar/LeetCode/tree/master/0739-daily-temperatures) |
@@ -120,4 +122,8 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karankavthankar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/karankavthankar/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
