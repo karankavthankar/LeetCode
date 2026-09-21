@@ -79,6 +79,7 @@ My LeetCode Solutions.........
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karankavthankar/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karankavthankar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/karankavthankar/LeetCode/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
