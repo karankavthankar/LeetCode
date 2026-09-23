@@ -122,6 +122,7 @@ My LeetCode Solutions.........
 | [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karankavthankar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karankavthankar/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
