@@ -22,6 +22,7 @@ My LeetCode Solutions.........
 | [3718-smallest-missing-multiple-of-k](https://github.com/karankavthankar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/karankavthankar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karankavthankar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3895-count-digit-appearances](https://github.com/karankavthankar/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ My LeetCode Solutions.........
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karankavthankar/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karankavthankar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karankavthankar/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3895-count-digit-appearances](https://github.com/karankavthankar/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Greedy
 |  |
 | ------- |
