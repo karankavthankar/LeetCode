@@ -73,6 +73,7 @@ My LeetCode Solutions.........
 | [0394-decode-string](https://github.com/karankavthankar/LeetCode/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/karankavthankar/LeetCode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/karankavthankar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karankavthankar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/karankavthankar/LeetCode/tree/master/1544-make-the-string-great) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -92,6 +93,7 @@ My LeetCode Solutions.........
 | [0735-asteroid-collision](https://github.com/karankavthankar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karankavthankar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/karankavthankar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karankavthankar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/karankavthankar/LeetCode/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/karankavthankar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -131,9 +133,14 @@ My LeetCode Solutions.........
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/karankavthankar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karankavthankar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/karankavthankar/LeetCode/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/karankavthankar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
