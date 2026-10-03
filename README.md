@@ -89,6 +89,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/karankavthankar/LeetCode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/karankavthankar/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/karankavthankar/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -148,4 +149,8 @@ My LeetCode Solutions.........
 | ------- |
 | [0856-score-of-parentheses](https://github.com/karankavthankar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/karankavthankar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/karankavthankar/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
