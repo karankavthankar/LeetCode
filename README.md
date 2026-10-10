@@ -6,6 +6,7 @@ My LeetCode Solutions.........
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -33,6 +34,7 @@ My LeetCode Solutions.........
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/karankavthankar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -108,6 +110,7 @@ My LeetCode Solutions.........
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/karankavthankar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
