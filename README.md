@@ -8,6 +8,7 @@ My LeetCode Solutions.........
 | ------- |
 | [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -28,6 +29,7 @@ My LeetCode Solutions.........
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -112,6 +114,7 @@ My LeetCode Solutions.........
 | ------- |
 | [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/karankavthankar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/karankavthankar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
