@@ -11,6 +11,7 @@ My LeetCode Solutions.........
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/karankavthankar/LeetCode/tree/master/0735-asteroid-collision) |
@@ -38,12 +39,14 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/karankavthankar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +63,7 @@ My LeetCode Solutions.........
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karankavthankar/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -67,6 +71,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karankavthankar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -173,4 +178,16 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karankavthankar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
