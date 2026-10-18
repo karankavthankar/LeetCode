@@ -10,6 +10,7 @@ My LeetCode Solutions.........
 | [0128-longest-consecutive-sequence](https://github.com/karankavthankar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -143,6 +144,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/karankavthankar/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karankavthankar/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karankavthankar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -190,4 +192,24 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
