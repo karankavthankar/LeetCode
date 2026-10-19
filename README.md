@@ -18,6 +18,7 @@ My LeetCode Solutions.........
 | [0735-asteroid-collision](https://github.com/karankavthankar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karankavthankar/LeetCode/tree/master/0739-daily-temperatures) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karankavthankar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karankavthankar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karankavthankar/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -36,12 +37,14 @@ My LeetCode Solutions.........
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karankavthankar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karankavthankar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/karankavthankar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
