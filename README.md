@@ -11,6 +11,7 @@ My LeetCode Solutions.........
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karankavthankar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ My LeetCode Solutions.........
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karankavthankar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -179,6 +181,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/karankavthankar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +189,7 @@ My LeetCode Solutions.........
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -215,4 +219,12 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
