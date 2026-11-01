@@ -1,18 +1,21 @@
 class Solution {
 public:
     int minMergedInteger(vector<int>& nums) {
-        int small=0;
-        vector<int> arr;
+        int small=INT_MAX;
+
         for(int i=0;i<nums.size();i+=2){
-            string s="";
-            s+=to_string(nums[i])+to_string(nums[i+1]);
-            arr.push_back(stoi(s));
-        }
-        small=arr[0];
-        for(int i=0;i<arr.size();i++){
-            if(arr[i]<small){
-                small=arr[i];
+            int power=0;
+
+            if(nums[i+1]<10){
+                power=10;
+            }else if(nums[i+1]<100){
+                power=100;
+            }else if(nums[i+1]<1000){
+                power=1000;
+            }else if(nums[i+1]<10000){
+                power=10000;
             }
+            small=min(nums[i]*power+nums[i+1],small);
         }
         return small;
     }
