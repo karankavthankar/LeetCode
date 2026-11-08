@@ -6,6 +6,7 @@ My LeetCode Solutions.........
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/karankavthankar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -111,6 +112,7 @@ My LeetCode Solutions.........
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/karankavthankar/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/karankavthankar/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -130,6 +132,7 @@ My LeetCode Solutions.........
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -139,6 +142,7 @@ My LeetCode Solutions.........
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/karankavthankar/LeetCode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
@@ -239,4 +243,8 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
