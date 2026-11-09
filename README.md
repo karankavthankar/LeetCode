@@ -21,6 +21,7 @@ My LeetCode Solutions.........
 | [0540-single-element-in-a-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/karankavthankar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karankavthankar/LeetCode/tree/master/0739-daily-temperatures) |
+| [0992-subarrays-with-k-different-integers](https://github.com/karankavthankar/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/karankavthankar/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karankavthankar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karankavthankar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -75,6 +76,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/karankavthankar/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karankavthankar/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/karankavthankar/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3663-find-the-least-frequent-digit](https://github.com/karankavthankar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -84,6 +86,7 @@ My LeetCode Solutions.........
 | [0128-longest-consecutive-sequence](https://github.com/karankavthankar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/karankavthankar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/karankavthankar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/karankavthankar/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karankavthankar/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -149,6 +152,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/karankavthankar/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/karankavthankar/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karankavthankar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karankavthankar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karankavthankar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
