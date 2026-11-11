@@ -8,6 +8,7 @@ My LeetCode Solutions.........
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/karankavthankar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/karankavthankar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/karankavthankar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karankavthankar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -253,6 +254,7 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/karankavthankar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/karankavthankar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
