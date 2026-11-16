@@ -172,6 +172,7 @@ My LeetCode Solutions.........
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/karankavthankar/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/karankavthankar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/karankavthankar/LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/karankavthankar/LeetCode/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/karankavthankar/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karankavthankar/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karankavthankar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -190,6 +191,7 @@ My LeetCode Solutions.........
 | ------- |
 | [0394-decode-string](https://github.com/karankavthankar/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/karankavthankar/LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/karankavthankar/LeetCode/tree/master/1922-count-good-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
