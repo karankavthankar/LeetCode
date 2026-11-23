@@ -166,6 +166,7 @@ My LeetCode Solutions.........
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/karankavthankar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karankavthankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/karankavthankar/LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/karankavthankar/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -258,11 +259,13 @@ My LeetCode Solutions.........
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karankavthankar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/karankavthankar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/karankavthankar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/karankavthankar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/karankavthankar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karankavthankar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
